@@ -17,6 +17,11 @@
 + [如何实现 Promise 池](https://github.com/jacob-lcs/blog/issues/2)
 + [一文详解 react-color 实现原理](https://github.com/jacob-lcs/blog/issues/1)
 
+## CSS
+
++ [CSS 实现水平垂直居中的数种方法整合](https://github.com/jacob-lcs/blog/issues/10)
++ [使用 media 实现响应式布局](https://github.com/jacob-lcs/blog/issues/11)
+
 ## Python
 
 + [教你爬取腾讯课堂、网易云课堂、mooc等所有课程信息](https://github.com/jacob-lcs/blog/issues/6)
@@ -24,3 +29,4 @@
 ## 开源项目
 
 + [做了一个比较完善的课程管理与推荐系统 ](https://github.com/jacob-lcs/blog/issues/4)
++ [教你用 Vue 写一个开心消消乐](https://github.com/jacob-lcs/blog/issues/9)
