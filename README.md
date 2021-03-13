@@ -30,3 +30,7 @@
 
 + [做了一个比较完善的课程管理与推荐系统 ](https://github.com/jacob-lcs/blog/issues/4)
 + [教你用 Vue 写一个开心消消乐](https://github.com/jacob-lcs/blog/issues/9)
+
+## 网站搭建
+
++ [一键部署！这样搭建一个文档网站真的很简单！](https://github.com/jacob-lcs/blog/issues/12)
